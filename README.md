@@ -10,7 +10,7 @@ We have made a find the difference game with my team. It includes 25 categories 
 in cartoon style and attractive. There are two types of levels which I call normal and timed levels. 
 In normal levels, there is no time limitation. The player has three lives and tries to find the 7 differences between the two images. In timed levels, the player has 30 seconds to find the 7 hidden objects in one image.
 
-I added a lucky wheel (player watches a rewarded ad to spin), daily rewards, shop, settings, IAP.
+I added a lucky wheel (player watches a rewarded ad to spin), daily rewards, shop, settings and IAP.
 
 - Android: https://play.google.com/store/apps/details?id=com.glorygames.findthedifferencespotit&pli=1
 
@@ -18,7 +18,7 @@ I added a lucky wheel (player watches a rewarded ad to spin), daily rewards, sho
 
 ## Dodger Ball
 
-This is a hypercasual, relaxing, chill game. The player drags and release the ball and tries to reach the top of the level to complete it. There are obstacles such as swinging axes, wrecking balls, saw,
+This is a hypercasual, relaxing, chill game. The player drags and releases the ball and tries to reach the top of the level to complete it. There are obstacles such as swinging axes, wrecking balls, saws,
 spikes, moving blocks, etc. 
 
 - Android : https://play.google.com/store/apps/details?id=com.glorygames.dodgerball
@@ -40,7 +40,7 @@ I also added a few custom events to see how many levels will players complete.
 - **Email**: omerguleryuz99@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/%C3%B6mer-g%C3%BClery%C3%BCz-b640941b9/
 
-## 🚀 My Skills
+## My Skills
 
 - **Languages**: Turkish (native), English (Fluent)
 - **Tools & Frameworks**: Unity, C#

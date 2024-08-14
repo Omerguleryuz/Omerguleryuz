@@ -10,7 +10,7 @@ We have made a find the difference game with my team. It includes 25 categories 
 in cartoon style and attractive. There are two types of levels which I call normal and timed levels. 
 In normal levels, there is no time limitation. The player has three lives and tries to find the 7 differences between the two images. In timed levels, the player has 30 seconds to find the 7 hidden objects in one image.
 
-I added a lucky wheel (player watches a rewarded ad to spin), daily rewards, shop, settings and IAP.
+I added a lucky wheel (player watches a rewarded ad to spin), daily rewards, shop, settings IAP, ads, etc.
 
 - Android: https://play.google.com/store/apps/details?id=com.glorygames.findthedifferencespotit&pli=1
 

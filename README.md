@@ -23,7 +23,7 @@ We have made a hidden object game where player finds the hidden objects in diffe
 - Android: https://play.google.com/store/apps/details?id=com.glorygames.hiddenobject
 
 - iOS    : https://apps.apple.com/us/app/hidden-object-master/id6639616590
-- 
+
 ## Dodger Ball
 
 This is a hypercasual, relaxing, chill game. The player drags and releases the ball and tries to reach the top of the level to complete it. There are obstacles such as swinging axes, wrecking balls, saws,

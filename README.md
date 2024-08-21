@@ -33,12 +33,6 @@ spikes, moving blocks, etc.
 
 - iOS     : https://apps.apple.com/us/app/skyball-dodger/id6502592020
 
-## Current Projects
-
-- I am making a hidden object game and I am about to publish it. I kept the game simple and just made 15 levels to see the retention rates and play times.
-I added Admob, Firebase Analytics and Cloud Messaging, Unity Analytics, Facebook and In-app rating SDK of Google Play Services.
-I also added a few custom events to see how many levels will players complete.
-
 ## What I'm Learning
 
 - Improving my skills in OOP, SOLID, UniTask, Zenject and SQL

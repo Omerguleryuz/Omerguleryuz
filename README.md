@@ -7,16 +7,24 @@ I made two mobile games so far. I am sharing their links below. I also sent one 
 ## Find the Difference: Spot It!
 
 We have made a find the difference game with my team. It includes 25 categories that work like chapters in the game. There are approximately 400 levels. There are high quality images in each level. We tried to make the UI 
-in cartoon style and attractive. There are two types of levels which I call normal and timed levels. 
+in cartoon style and attractive. There are two types of levels which we call normal and timed levels. 
 In normal levels, there is no time limitation. The player has three lives and tries to find the 7 differences between the two images. In timed levels, the player has 30 seconds to find the 7 hidden objects in one image.
 
-I added a lucky wheel (player watches a rewarded ad to spin), daily rewards, shop, settings IAP, ads, etc.
+We added a lucky wheel (player watches a rewarded ad to spin it), daily rewards, shop, settings IAP, ads, etc.
 
 - Android: https://play.google.com/store/apps/details?id=com.glorygames.findthedifferencespotit&pli=1
 
 - iOS    : https://apps.apple.com/us/app/find-the-difference-find-it/id1671565398
 
+## Hidden Object: Master
+
+We have made a hidden object game where player finds the hidden objects in different chapters like mansion, museum, etc. There is no time limitation and also player can get help from hint button.
+
 ## Dodger Ball
+
+- Android: https://play.google.com/store/apps/details?id=com.glorygames.hiddenobject
+
+- iOS    : https://apps.apple.com/us/app/hidden-object-master/id6639616590
 
 This is a hypercasual, relaxing, chill game. The player drags and releases the ball and tries to reach the top of the level to complete it. There are obstacles such as swinging axes, wrecking balls, saws,
 spikes, moving blocks, etc. 

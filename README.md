@@ -41,7 +41,7 @@ I also added a few custom events to see how many levels will players complete.
 
 ## What I'm Learning
 
-- Improving my skills in OOP, SOLID, UniTask and Zenject
+- Improving my skills in OOP, SOLID, UniTask, Zenject and SQL
 
 ## How to Reach Me
 
